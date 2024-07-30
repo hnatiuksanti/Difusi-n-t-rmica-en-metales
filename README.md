@@ -5,7 +5,7 @@ Sobre los códigos del repositorio:
 
 ¿Que es la difusividad? 
 
-En la ecuación de conducción de calor de Fourier se ve que la difusividad $\kappa$ es un índice que expresa la velocidad de cambio, y flujo de temperaturas, en un material hasta que alcanza el equilibrio térmico: 
+En la ecuación de conducción de calor de Fourier se ve que la difusividad $\kappa$ es un índice que expresa la velocidad de cambio y flujo de temperaturas en un material hasta que alcanza el equilibrio térmico: 
 
 $$ \frac{\partial^{2} T}{\partial x^{2}} \kappa= \frac{\partial T }{\partial t} $$ 
 
@@ -13,4 +13,9 @@ $$ \frac{\partial^{2} T}{\partial x^{2}} \kappa= \frac{\partial T }{\partial t} 
 Para el regimen estacionario se puede plantear una solucion de la pinta: 
 
 $$ T(x,t)= T_{0}e^{-\epsilon x}cos(\omega (t-x/\nu)) $$
+
+Donde $\epsilon$ es el coeficiente de decaimiento, $\nu$ es la velocidad de la onda termica, $\kappa$ = $\frac{\nu}{2 \epsilon}$. Finalemte $\nu$ se puede calcular partir del desfasaje
+ de la onda en dos puntos: $\nu$ = $\frac{\Delta x}{\Delta t}$
+
+
 
