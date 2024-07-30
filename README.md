@@ -10,12 +10,16 @@ En la ecuación de conducción de calor de Fourier se ve que la difusividad $\ka
 $$ \frac{\partial^{2} T}{\partial x^{2}} \kappa= \frac{\partial T }{\partial t} $$ 
 
 ¿Como calcular $\kappa$?
-Para el regimen estacionario se puede plantear una solucion de la pinta: 
+
+Exitando la barra con una fuente armonica se puede obetener, para el regimen estacionario, una solucion de la pinta: 
 
 $$ T(x,t)= T_{0}e^{-\epsilon x}cos(\omega (t-x/\nu)) $$
 
 Donde $\epsilon$ es el coeficiente de decaimiento, $\nu$ es la velocidad de la onda termica, $\kappa$ = $\frac{\nu}{2 \epsilon}$. Finalemte $\nu$ se puede calcular partir del desfasaje
  de la onda en dos puntos: $\nu$ = $\frac{\Delta x}{\Delta t}$
 
+Por otro lado, es posible también analizar el comportamiento del sistema en el período transitorio utilizando una fuente de potenciaconstante. Bajo estas condiciones, la temperatura se comporta de la siguiente manera: 
+
+$$ $$ 
 
 
