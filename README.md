@@ -20,6 +20,6 @@ Donde $\epsilon$ es el coeficiente de decaimiento, $\nu$ es la velocidad de la o
 
 Por otro lado, es posible también analizar el comportamiento del sistema en el período transitorio utilizando una fuente de potenciaconstante. Bajo estas condiciones, la temperatura se comporta de la siguiente manera: 
 
-$$ T(x,t)= \frac{2F_{0}}{K}\{ \sqrt{\frac{\kappa t}{\pi}} e^{-\frac{x^{2}}{4\kappa t}} - \frac{x}{2} \text{erfc}\left( \frac{x}{2\sqrt{\kappa t}}  \right) \} $$ 
+$$ T(x,t)= \frac{2F_{0}}{K} \left( \sqrt{\frac{\kappa t}{\pi}} e^{-\frac{x^{2}}{4\kappa t}} - \frac{x}{2} \text{erfc}\left( \frac{x}{2\sqrt{\kappa t}}  \right)  \right) $$ 
 
 
