@@ -25,4 +25,5 @@ $$ T(x,t)= \frac{2F_{0}}{K} \left( \sqrt{\frac{\kappa t}{\pi}} e^{-\frac{x^{2}}{
 Arreglo Experimental
 
 Se midió la temperatura a lo largo de toda una barra cobre utlizando un arreglo 7 termocuplas conectadas a un multiplexor Agilent 34970A. Se exitó uno de los extremos de la barra con pulso armonico y luego con un pulso constante para comparar los dos métodos arriba mencionados. 
+![Esquema Experimental](https://github.com/hnatiuksanti/Thermal-Diffusivity/blob/main/imagenes/experimental.png)
 
