@@ -1,2 +1,2 @@
 # Thermal-Diffusivity
-Scripts para medir y analizar la difusión de calor en una barra de cobre. 
+En difusion.py se encuentran los códigos para medir y graficar la difusión de calor en una barra de cobre, tambien la comunicacion con el instrumental: multiplexor 34970A, generador de funciones Tektonix AFG 3021B y fuente HANTEK PPS2320A. En intrumetal-HANTEKPPS2320A.py se encuentran los metodos de la clase homónima. 
