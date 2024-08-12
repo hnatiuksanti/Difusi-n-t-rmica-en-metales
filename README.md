@@ -29,6 +29,6 @@ Se midió la temperatura a lo largo de toda una barra cobre utlizando un arreglo
 
 # Resultados
 
-![Resultados Estacionario](https://github.com/hnatiuksanti/Thermal-Diffusivity/blob/main/imagenes/Reusltados%20estacionario.png)
+![Resultados Estacionario](https://github.com/hnatiuksanti/Thermal-Diffusivity/blob/main/imagenes/Reusltados%20estacionarios.png)
 
 ![Resultados Transitorio](https://github.com/hnatiuksanti/Thermal-Diffusivity/blob/main/imagenes/Reusltados%20transitorio.png)
