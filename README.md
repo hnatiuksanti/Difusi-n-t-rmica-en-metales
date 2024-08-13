@@ -11,7 +11,7 @@ $$ \frac{\partial^{2} T}{\partial x^{2}} \kappa= \frac{\partial T }{\partial t} 
 
 ## ¿Como calcular $\kappa$?
 
-Exitando la barra con una fuente armonica se puede obetener, para el regimen estacionario, una solucion de la pinta: 
+Exitando una barra (de cobre en éste caso) con una fuente armonica se puede obetener, para el regimen estacionario, una solucion de la pinta: 
 
 $$ T(x,t)= T_{0}e^{-\epsilon x}cos(\omega (t-x/\nu)) $$
 
